@@ -1,5 +1,7 @@
-# Frontend
+# Front-end
 
-Pasta destinada aos arquivos da interface visual do PIXEL QUEST.
+Camada de apresentação do PIXEL QUEST, desenvolvida com HTML, CSS e JavaScript.
 
-Aqui serão armazenados os arquivos HTML, CSS, JavaScript e recursos visuais utilizados no projeto.
+Responsável pela interface visual utilizada pelos jogadores e administradores, incluindo cadastro, login, mapa, regiões, aulas, exercícios, missões, perfil, conquistas e painel administrativo.
+
+O JavaScript será responsável pelas interações e pela comunicação com o back-end por meio da Fetch API, utilizando respostas em JSON.
